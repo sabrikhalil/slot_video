@@ -1,6 +1,6 @@
 # CONDITIONAL OBJECT-CENTRIC LEARNING FROM VIDEO
 
-This repository implements a conditional extension of the Slot Attention autoencoder for unsupervised object-centric learning from video.
+This repository implements the paper : "Conditional Object-Centric learning from video"
 
 ## Overview
 
