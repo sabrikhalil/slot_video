@@ -29,6 +29,7 @@ Clone the repository and install dependencies:
 git clone https://github.com/yourusername/ConditionalObjectCentricVideo.git
 cd ConditionalObjectCentricVideo
 pip install -r requirements.txt
+```
 
 ## Prepare Dataset 
 
