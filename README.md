@@ -26,8 +26,8 @@ This implementation extends Slot Attention with a predictor–corrector loop to 
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/ConditionalObjectCentricVideo.git
-cd ConditionalObjectCentricVideo
+git clone https://github.com/sabrikhalil/slot_video.git
+cd slot_video
 pip install -r requirements.txt
 ```
 
