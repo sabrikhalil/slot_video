@@ -9,3 +9,12 @@ venv/
 checkpoints/
 data/
 wandb/
+# Ignorer les répertoires de cache Python
+**/__pycache__/
+# Ignorer les fichiers Python compilés
+*.py[cod]
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
